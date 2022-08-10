@@ -3,7 +3,7 @@
 ## Dataset used 
 MNIST: http://yann.lecun.com/exdb/mnist/
 
-The noisy dataset was created by adding a Gaussian noise of $\mu = 0$ and $\sigma = 0$. Test train splits are then made accordingly for the noisy and clean parts.
+The noisy dataset was created by adding a Gaussian noise of $\mu = 0$ and $\sigma = 0.5$. Test train splits are then made accordingly for the noisy and clean parts.
 
 ## Results
 ```bash
